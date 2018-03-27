@@ -16,7 +16,8 @@ Last but not least, we want to fill the game with educational content, because w
 
 
 > You will need the following packages from the marketplace to develop (all from Epic Games):
->   - AutomotiveMaterials
+>   - Open World Demo Collection
+>   - AutomotiveMaterials (download and copy manually into project)
 >   - Infinity Blade: Effects
 >   - Soul:City
 >   - Soul:Cave
