@@ -21,4 +21,7 @@ Last but not least, we want to fill the game with educational content, because w
 >   - Infinity Blade: Effects
 >   - Soul:City
 >   - Soul:Cave
-  
+>
+> And the following Plugins:
+>   - Blueprint Analytics Pulgin (Built-In)
+>   - GameAnalytics Plugin (Marketplace) https://gameanalytics.com/docs/unreal4-sdk
