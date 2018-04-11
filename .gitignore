@@ -50,8 +50,11 @@ Temporary Items
 **/Saved/
 **/Content/AutomotiveMaterials
 **/Content/InfinityBladeEffects
-**/Intermediate/
+**/Intermediate
 **/Content/SoulCave
 **/Content/SoulCity
+**/Intermediate/Config
 **/Build
+**/Config
 **/Content/KiteDemo
+**/Binaries
